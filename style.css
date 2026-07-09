@@ -1,9 +1,17 @@
+* {
+    color: gray;
+}
+
 #d1 {
     color: red;
 }
 
 p.c1 {
     color: blue;
+}
+
+.c2 {
+    color: green;
 }
 
 h1 {
