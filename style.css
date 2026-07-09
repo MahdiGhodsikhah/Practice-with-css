@@ -6,7 +6,7 @@
     color: red;
 }
 
-p.c1 {
+p {
     color: blue;
 }
 
@@ -20,4 +20,14 @@ h1 {
 
 div, .div1 {
     color: purple;
+}
+
+.font{
+    font-style: 100px;
+    font-weight: bold;
+    direction: rtl;
+    text-decoration: line-through;
+    letter-spacing: 20px;
+    text-transform: capitalize;
+    text-shadow: 4px 3px 10px #333;
 }
