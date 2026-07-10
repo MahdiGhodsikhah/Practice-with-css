@@ -37,3 +37,7 @@ div, .div1 {
     text-transform: capitalize;
     text-shadow: 4px 3px 10px #333;
 }
+
+.color{
+    color: #609100;
+}
