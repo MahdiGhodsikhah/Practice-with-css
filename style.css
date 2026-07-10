@@ -1,5 +1,11 @@
+@font-face {
+    font-family: yagut;
+    src: url(Yagut.ttf);
+}
+
 * {
     color: gray;
+    font-family: yagut;
 }
 
 #d1 {
