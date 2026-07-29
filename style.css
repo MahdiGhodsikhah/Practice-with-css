@@ -24,11 +24,12 @@ h1 {
     color: yellow;
 }
 
-div, .div1 {
+div,
+.div1 {
     color: purple;
 }
 
-.font{
+.font {
     font-style: 100px;
     font-weight: bold;
     direction: rtl;
@@ -38,6 +39,33 @@ div, .div1 {
     text-shadow: 4px 3px 10px #333;
 }
 
-.color{
+.color {
     color: #609100;
+}
+
+#p1 {
+    background: violet;
+    padding-left: 100px;
+    text-align: center;
+    border: 5px solid #14fff7;
+    border-top-left-radius: 25px;
+    max-width: 1200px;
+    padding: 50px 0;
+}
+
+#a1:hover {
+    margin: 0 auto;
+    color: blue;
+}
+
+#a1:active {
+    color: #609100;
+}
+
+#da {
+    text-align: center;
+}
+
+#t1 {
+    border: 3px solid #14fff7;
 }
