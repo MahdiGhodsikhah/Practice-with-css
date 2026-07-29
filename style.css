@@ -69,3 +69,10 @@ div,
 #t1 {
     border: 3px solid #14fff7;
 }
+
+.minh {
+    color: white;
+    background: red;
+    min-height: 50px;
+    margin: 5px 0;
+}
