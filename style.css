@@ -188,3 +188,15 @@ div,
     width: 100%;
     border-bottom: 3px solid #37ff14;
 }
+
+body {
+    font-size: 20px;
+}
+
+.erem1 {
+    font-size: 1em;
+}
+
+.erem2 {
+    font-size: 2em;
+}
