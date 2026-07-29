@@ -105,3 +105,15 @@ div,
     height: 500px;
     overflow: auto;
 }
+
+.com > p {
+    color: red;
+}
+
+.com + p {
+    color: green !important;
+}
+
+.com ~ p {
+    color: rgb(169, 65, 225) !important;
+}
