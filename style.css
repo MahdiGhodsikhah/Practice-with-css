@@ -117,3 +117,38 @@ div,
 .com ~ p {
     color: rgb(169, 65, 225) !important;
 }
+
+.sudoclas {
+    background-color: aquamarine;
+}
+
+.sudoclas:hover {
+    background-color: darkviolet;
+}
+
+/* start hover effect */
+.hoverr p {
+    background-color: rgb(24, 232, 62);
+    display: none;
+}
+
+.hoverr:hover p {
+    display: block;
+}
+/* end hover effect */
+
+.chils p:first-child{
+    background-color: gray;
+}
+
+.chils p:last-child{
+    background-color: rgb(172, 230, 37);
+}
+
+.chils p:nth-child(2){
+    background-color: rgb(230, 172, 37);
+}
+
+.ifocus:focus {
+    background-color: #14fff7;
+}
